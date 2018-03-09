@@ -43,5 +43,5 @@ evas:
     time_end:   2002-06-13T22:33Z
 gender:	Male
 country:
-  - USA
+  - Costa Rica
 ---
